@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Logs
+*.log
+logs/
+*.out
+
+# Datos locales
+data/
+*.csv
+*.db
+*.sqlite
+
+# Configuración local
+.env
+config.json
+*.conf
+
+# SSHX
+.sshx/
+
+# Temporales
+tmp/
+temp/
+*.tmp
+*.bak
+*.backup
+
+# Sistema operativo
+Thumbs.db
+Desktop.ini
